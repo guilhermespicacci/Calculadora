@@ -1,7 +1,3 @@
-
-  
- 
-
 function CriaCalculadora() {
     inputDisplay = document.getElementById("display");
     this.inicia = () =>{
